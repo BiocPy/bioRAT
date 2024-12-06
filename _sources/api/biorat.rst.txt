@@ -1,0 +1,21 @@
+biorat package
+==============
+
+Submodules
+----------
+
+biorat.ontology module
+----------------------
+
+.. automodule:: biorat.ontology
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: biorat
+   :members:
+   :undoc-members:
+   :show-inheritance:
