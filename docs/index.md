@@ -1,18 +1,6 @@
-# bioRAT
+# Bioinformatics Random Awesome Tools (bioRAT)
 
-Add a short description here!
-
-
-## Note
-
-> This is the main page of your project's [Sphinx] documentation. It is
-> formatted in [Markdown]. Add additional pages by creating md-files in
-> `docs` or rst-files (formatted in [reStructuredText]) and adding links to
-> them in the `Contents` section below.
->
-> Please check [Sphinx] and [MyST] for more information
-> about how to document your project and how to configure your preferences.
-
+Just a collection of useful data processing functions.
 
 ## Contents
 
@@ -20,11 +8,11 @@ Add a short description here!
 :maxdepth: 2
 
 Overview <readme>
+Module Reference <api/modules>
 Contributions & Help <contributing>
 License <license>
 Authors <authors>
 Changelog <changelog>
-Module Reference <api/modules>
 ```
 
 ## Indices and tables
