@@ -10,14 +10,12 @@
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/bioRAT)
 -->
 
-[![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
+[![PyPI-Server](https://img.shields.io/pypi/v/bioRAT.svg)](https://pypi.org/project/biorat/)
+![Unit tests](https://github.com/BiocPy/bioRAT/actions/workflows/pypi-test.yml/badge.svg)
 
-# bioRAT
+# Bioinformatics Random Awesome Tools (bioRAT)
 
-> Add a short description here!
-
-A longer description of your project goes here...
-
+Just a collection of useful data processing functions.
 
 <!-- pyscaffold-notes -->
 
